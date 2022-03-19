@@ -1,0 +1,17 @@
+{
+  "name": "Road_safety_in_Europe",
+  "version": "1.0.0",
+  "description": " European Union Road Safety Facts and Figures",
+  "main": "app.js",
+  "scripts": {
+    "start": " node app.js"
+  },
+  "author": "tochukwu okeke",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "isomorphic-fetch": "^3.0.0",
+    "morgan": "^1.10.0"
+  }
+}
